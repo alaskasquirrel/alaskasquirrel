@@ -1,6 +1,7 @@
 #### No CS Degree 📝 Self-Learning [Chinese Blog](https://alaskasquirrel.github.io/) 
 
 ![alaskasquirrel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alaskasquirrel&show_icons=true&theme=vue)
+
 <table>
   <tr>
   <th><a href="https://github.com/alaskasquirrel/Chinese-Podcasts">Chinese Podcasts</a></td>
