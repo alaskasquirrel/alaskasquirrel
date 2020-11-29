@@ -4,13 +4,11 @@
 
 <table>
   <tr>
-  <th><a href="https://alaskasquirrel.github.io/post/a-road-to-common-lisp/"><font color="00dd00">译: A Road to Common Lisp</font></a></th>
+  <th><a href="https://github.com/alaskasquirrel/KurtGodel">Kurt Gödel</a></th>
   <th><a href="https://github.com/alaskasquirrel/mathematical-logic"><font color="graywhite">数理逻辑</font></a></th>
-  <th><a href="https://alaskasquirrel.github.io/post/LearnLispProgramming/">译：Learn Lisp Programming</a></th>
   <tr>
-  <td><a href="https://alaskasquirrel.github.io/post/a-road-to-common-lisp/"><img width="255px" src="./images/A-Road-to-Common-Lisp.png"></a></td>
-  <td><a href="https://github.com/alaskasquirrel/mathematical-logic"><img width="220px" src="./images/MathematicalLogic.png"></a></td>
-  <td><a href="https://alaskasquirrel.github.io/post/LearnLispProgramming/"><img width="240px" src="./images/LearnLispProgramming.png"></a></td>
+  <td><a href="https://github.com/alaskasquirrel/KurtGodel"><img width="75px" src="./images/KurtGodel.jpg"/></a></td>
+  <td><a href="https://github.com/alaskasquirrel/mathematical-logic"><img width="150px" src="./images/MathematicalLogic.png"></a></td>
   </tr>
 </table>
 
@@ -32,7 +30,7 @@
   <th><a href="https://alaskasquirrel.github.io/post/windows/"><font color="graywhite">Windows10⚙️</font></a></th>
   </tr>
   <tr>
-  <td><a href="https://github.com/alaskasquirrel/Japanese-Nihongo"><img width="150px" src="./images/Nihongo.png"/></a></td>  
-  <td><a href="https://alaskasquirrel.github.io/post/windows/"><img width="105px" src="./images/windows.jpg"/></a></td>
+  <td><a href="https://github.com/alaskasquirrel/Japanese-Nihongo"><img width="125px" src="./images/Nihongo.png"/></a></td>  
+  <td><a href="https://alaskasquirrel.github.io/post/windows/"><img width="100px" src="./images/windows.jpg"/></a></td>
   </tr>
 </table>
