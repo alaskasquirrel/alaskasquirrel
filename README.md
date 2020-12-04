@@ -18,12 +18,6 @@
 <a href="https://github.com/alaskasquirrel/Lisp-China">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=alaskasquirrel&repo=Lisp-China&theme=graywhite" />
 </a>
-<a href="https://github.com/alaskasquirrel/CS-Chinese">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=alaskasquirrel&repo=CS-Chinese&theme=black" /> 
-</a>
-<a href="https://github.com/alaskasquirrel/CS-Courses">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=alaskasquirrel&repo=CS-Courses&theme=vue" />
-</a>
 <table>
   <tr>
   <th><a href="https://github.com/alaskasquirrel/Japanese-Nihongo">日本語 Nihongo</a></th>
