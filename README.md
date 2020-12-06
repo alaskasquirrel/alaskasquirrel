@@ -1,7 +1,5 @@
 <img width="100" src="./images/NoCSDegree.png"> 📝 Self-Learning **<u>[NewOld (Chinese Blog)](https://alaskasquirrel.github.io/)</u>**
 
-![alaskasquirrel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alaskasquirrel&show_icons=true&theme=vue)
-
 <table>
   <tr>
   <th><a href="https://github.com/alaskasquirrel/KurtGodel">Kurt Gödel</a></th>
