@@ -1,4 +1,5 @@
 <img align="left" height="60px" src="./images/tenor.gif">
+
 <img width="100" src="./images/NoCSDegree.png"> 📝 
 
 **Self-Learning** <u>[NewOld (Chinese Blog)](https://alaskasquirrel.github.io/)</u>
