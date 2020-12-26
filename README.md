@@ -1,8 +1,9 @@
-<img align="left" height="56px" src="./images/tenor.gif">
-
+<img align="left" height="60px" src="./images/tenor.gif">
 <img width="100" src="./images/NoCSDegree.png"> 📝 
 
-Self-Learning <u>[NewOld (Chinese Blog)](https://alaskasquirrel.github.io/)</u>
+**Self-Learning** <u>[NewOld (Chinese Blog)](https://alaskasquirrel.github.io/)</u>
+
+
 
 <a href="https://github.com/alaskasquirrel/Chinese-Podcasts">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=alaskasquirrel&repo=Chinese-Podcasts&theme=buefy" />
