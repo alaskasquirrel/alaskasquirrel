@@ -1,5 +1,5 @@
-<img align="left" height="60px" src="./images/tenor.gif">
-<img width="100" src="./images/NoCSDegree.png"> 📝 
+<img align="left" height="55" src="./images/LandOfLisp.png"/>
+<img width="90" src="./images/NoCSDegree.png"> 📝 
 
 *Self-Learning* <u>[**NewOld** (Chinese Blog)](https://alaskasquirrel.github.io/)</u>
 
@@ -27,10 +27,16 @@
 
 ******
 
-- Thanks:
+Thanks:
 
-   * Common Lisp is nice: see <u>[Lisp Journey](https://lisp-journey.gitlab.io/)</u> editor <img width="30" src="./images/LispJourney.jpg"/>[vindarel](https://github.com/vindarel)
+* Common Lisp is nice: see <u>[Lisp Journey](https://lisp-journey.gitlab.io/)</u> editor <img width="30" src="./images/LispJourney.jpg"/>[vindarel](https://github.com/vindarel)
 
-    * <u>[Programming Language Theory](https://steshaw.org/plt/)</u> editor <img width="25" src="./images/steshaw.png"/> [Steven Shaw](https://github.com/steshaw)
+* <u>[Programming Language Theory](https://steshaw.org/plt/)</u> editor <img width="25" src="./images/steshaw.png"/> [Steven Shaw](https://github.com/steshaw)
 
-    * Oleg's <u>[FTP](http://okmij.org/ftp/)</u>
+* <u>[FTP](http://okmij.org/ftp/)</u> editor <img width="30" src="./images/Oleg.jpg"/> Oleg Kiselyov
+
+* <img width="30" src="./images/CHM.png"/> [History of LISP](http://www.softwarepreservation.org/projects/LISP) editor <img width="30" src="./images/McJones.jpg"/> [Paul McJones](https://www.mcjones.org/paul/)
+
+* 📹 [Turing Centenial Celebration](https://conifer.rhizome.org/mudd/turing/20180328150956/https://www.princeton.edu/turing//index.xml) <img width="30" src="./images/Turing.png"/> at Princeton, 10–12 May 2012.
+
+* 🎥 [The Computer Chronicles](http://www.cheifet.com/) host <img width="33" src="./images/Cheifet.jpg"> Stewart Cheifet
