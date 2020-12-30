@@ -1,5 +1,4 @@
-<img align="left" height="55" src="./images/LandOfLisp.png"/>
-<img width="90" src="./images/NoCSDegree.png"> 📝 
+<img height="55" src="./images/LandOfLisp.png"/>
 
 *Self-Learning* <u>[**NewOld** (Chinese Blog)](https://alaskasquirrel.github.io/)</u>
 
