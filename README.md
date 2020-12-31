@@ -1,6 +1,5 @@
-<img height="55" src="./images/LandOfLisp.png"/>
+*Self-Learning* <u>[**NewOld** (Chinese Blog)](https://alaskasquirrel.github.io/)</u> <img width="50" src="./images/NoCSDegree.png"/>
 
-*Self-Learning* <u>[**NewOld** (Chinese Blog)](https://alaskasquirrel.github.io/)</u>
 
 <a href="https://github.com/alaskasquirrel/Chinese-Podcasts">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=alaskasquirrel&repo=Chinese-Podcasts&theme=buefy" />
@@ -16,15 +15,15 @@
   <th><a href="https://github.com/alaskasquirrel/mathematical-logic"> 数理逻辑 </a></th>
   <th><a href="https://alaskasquirrel.github.io/post/windows/"> Windows 配置 </a></th>
   <th><a href="https://github.com/alaskasquirrel/Emacs-Learn"> Emacs </a></th>
+  <th><a href="https://github.com/alaskasquirrel/Lisp-China"> Lisp China </a></th>
   <tr>
   <td><a href="https://github.com/alaskasquirrel/KurtGodel"><img width="75px" src="./images/KurtGodel.jpg"/></a></td>
   <td><a href="https://github.com/alaskasquirrel/mathematical-logic"><img width="175px" src="./images/MathematicalLogic.png"/></a></td>
   <td><a href="https://alaskasquirrel.github.io/post/windows/"><img width="100px" src="./images/windows.jpg"/></a></td>
   <td><a href="https://github.com/alaskasquirrel/Emacs-Learn"><img width="100px" src="./images/emacs.gif"/></a></td>
+  <td><a href="https://github.com/alaskasquirrel/Lisp-China"><img width="90px" src="./images/LandOfLisp.png"/></a></td>
   </tr>
 </table>
-
-******
 
 Thanks:
 
