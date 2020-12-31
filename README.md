@@ -1,4 +1,4 @@
-*Self-Learning* <u>[**NewOld** (Chinese Blog)](https://alaskasquirrel.github.io/)</u> <img width="50" src="./images/NoCSDegree.png"/>
+*Self-Learning* <u>[**NewOld** (Chinese Blog)](https://alaskasquirrel.github.io/)</u> <img width="75" src="./images/NoCSDegree.png"/>
 
 
 <a href="https://github.com/alaskasquirrel/Chinese-Podcasts">
@@ -14,14 +14,12 @@
   <th><a href="https://github.com/alaskasquirrel/KurtGodel"> Kurt Gödel </a></th>
   <th><a href="https://github.com/alaskasquirrel/mathematical-logic"> 数理逻辑 </a></th>
   <th><a href="https://alaskasquirrel.github.io/post/windows/"> Windows 配置 </a></th>
-  <th><a href="https://github.com/alaskasquirrel/Emacs-Learn"> Emacs </a></th>
   <th><a href="https://github.com/alaskasquirrel/Lisp-China"> Lisp China </a></th>
   <tr>
   <td><a href="https://github.com/alaskasquirrel/KurtGodel"><img width="75px" src="./images/KurtGodel.jpg"/></a></td>
   <td><a href="https://github.com/alaskasquirrel/mathematical-logic"><img width="175px" src="./images/MathematicalLogic.png"/></a></td>
   <td><a href="https://alaskasquirrel.github.io/post/windows/"><img width="100px" src="./images/windows.jpg"/></a></td>
-  <td><a href="https://github.com/alaskasquirrel/Emacs-Learn"><img width="100px" src="./images/emacs.gif"/></a></td>
-  <td><a href="https://github.com/alaskasquirrel/Lisp-China"><img width="90px" src="./images/LandOfLisp.png"/></a></td>
+  <td><a href="https://github.com/alaskasquirrel/Lisp-China"><img width="100px" src="./images/LandOfLisp.png"/></a></td>
   </tr>
 </table>
 
@@ -31,9 +29,9 @@ Thanks:
 
 * <u>[Programming Language Theory](https://steshaw.org/plt/)</u> editor <img width="25" src="./images/steshaw.png"/> [Steven Shaw](https://github.com/steshaw)
 
-* <u>[FTP](http://okmij.org/ftp/)</u> editor <img width="30" src="./images/Oleg.jpg"/> Oleg Kiselyov
+* <u>[FTP](http://okmij.org/ftp/)</u> editor <img width="35" src="./images/Oleg.jpg"/> Oleg Kiselyov
 
-* <img width="30" src="./images/CHM.png"/> [History of LISP](http://www.softwarepreservation.org/projects/LISP) editor <img width="30" src="./images/McJones.jpg"/> [Paul McJones](https://www.mcjones.org/paul/)
+* <img width="66" src="./images/CHM.png"/> [History of LISP](http://www.softwarepreservation.org/projects/LISP) editor <img width="30" src="./images/McJones.jpg"/> [Paul McJones](https://www.mcjones.org/paul/)
 
 * 📹 [Turing Centenial Celebration](https://conifer.rhizome.org/mudd/turing/20180328150956/https://www.princeton.edu/turing//index.xml) <img width="30" src="./images/Turing.png"/> at Princeton, 10–12 May 2012.
 
