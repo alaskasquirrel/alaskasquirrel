@@ -6,11 +6,11 @@
   <th><a href="https://alaskasquirrel.github.io/post/windows/"> Windows 配置 </a></th>
   <th><a href="https://alaskasquirrel.github.io/post/culture/"> 歷史讀本 </a></th>
   <tr>
-  <td><a href="https://github.com/alaskasquirrel/mathematical-logic"><img width="150px" src="./images/MathematicalLogic.png"/></a></td>
+  <td><a href="https://github.com/alaskasquirrel/mathematical-logic"><img width="175px" src="./images/MathematicalLogic.png"/></a></td>
   <td><a href="https://github.com/alaskasquirrel/KurtGodel"><img width="75px" src="./images/KurtGodel.jpg"/></a></td>
-  <td><a href="https://github.com/alaskasquirrel/Lisp-China"><img width="100px" src="./images/LandOfLisp.png"/></a></td>
-  <td><a href="https://alaskasquirrel.github.io/post/windows/"><img width="75px" src="./images/windows.jpg"/></a></td>
-  <td><a href="https://alaskasquirrel.github.io/post/culture/"><img width="175px" src="./images/城墙.jpg"/></a></td>
+  <td><a href="https://github.com/alaskasquirrel/Lisp-China"><img width="125px" src="./images/LandOfLisp.png"/></a></td>
+  <td><a href="https://alaskasquirrel.github.io/post/windows/"><img width="115px" src="./images/windows.jpg"/></a></td>
+  <td><a href="https://alaskasquirrel.github.io/post/culture/"><img width="225px" src="./images/城墙.jpg"/></a></td>
   </tr>
 </table>
 
