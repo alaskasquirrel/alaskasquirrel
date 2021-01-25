@@ -1,16 +1,16 @@
 <table>
   <tr>
   <th><a href="https://github.com/alaskasquirrel/mathematical-logic"> 数理逻辑 </a></th>
-  <th><a href="https://github.com/alaskasquirrel/KurtGodel"> Kurt Gödel </a></th>
   <th><a href="https://github.com/alaskasquirrel/Lisp-China"> Lisp China </a></th>
-  <th><a href="https://alaskasquirrel.github.io/post/windows/"> Windows 配置 </a></th>
-  <th><a href="https://alaskasquirrel.github.io/post/culture/"> 歷史讀本 </a></th>
+  <th><a href="https://github.com/alaskasquirrel/KurtGodel"> Kurt Gödel </a></th>
+  <th><a href="https://alaskasquirrel.github.io/post/Privacy/"> 👁‍🗨 Privacy 👁‍🗨 </a></th>
+  <th><a href="https://alaskasquirrel.github.io/post/History/"> 歷史時光機 </a></th>
   <tr>
-  <td><a href="https://github.com/alaskasquirrel/mathematical-logic"><img width="175px" src="./images/MathematicalLogic.png"/></a></td>
-  <td><a href="https://github.com/alaskasquirrel/KurtGodel"><img width="75px" src="./images/KurtGodel.jpg"/></a></td>
-  <td><a href="https://github.com/alaskasquirrel/Lisp-China"><img width="125px" src="./images/LandOfLisp.png"/></a></td>
-  <td><a href="https://alaskasquirrel.github.io/post/windows/"><img width="115px" src="./images/windows.jpg"/></a></td>
-  <td><a href="https://alaskasquirrel.github.io/post/culture/"><img width="225px" src="./images/城墙.jpg"/></a></td>
+  <td><a href="https://github.com/alaskasquirrel/mathematical-logic"><img width="120px" src="./images/MathematicalLogic.png"/></a></td>
+  <td><a href="https://github.com/alaskasquirrel/Lisp-China"><img width="100px" src="./images/LandOfLisp.png"/></a></td>
+  <td><a href="https://github.com/alaskasquirrel/KurtGodel"><img width="90px" src="./images/KurtGodel.jpg"/></a></td>
+  <td><a href="https://alaskasquirrel.github.io/post/Privacy/"><img width="115px" src="./images/Privacy.jpg"/></a></td>
+  <td><a href="https://alaskasquirrel.github.io/post/History/"><img width="150px" src="./images/城墙.jpg"/></a></td>
   </tr>
 </table>
 
@@ -22,8 +22,9 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=alaskasquirrel&repo=Lisp-China&theme=graywhite" />
 </a>
 
-- Thanks:
+******
 
+- Thanks:
   * Common Lisp is nice: see <u>**[Lisp Journey](https://lisp-journey.gitlab.io/)**</u> editor <img width="30" src="./images/LispJourney.jpg"/> vindarel ||||||| <img width="45" src="./images/CHM.png"/> <u>**[History of LISP](http://www.softwarepreservation.org/projects/LISP)**</u> editor <img width="30" src="./images/McJones.jpg"/> Paul McJones
 
   * <img width="28" src="./images/EmacsLogo.png"/> <u>**[Using Emacs Series](https://cestlaz.github.io/stories/emacs/)**</u> <img width="25" src="./images/Zamansky.jpg"/> Mike Zamansky  |||||||  <img width="28" src="./images/EmacsNews.png"/> <u>**[Emacs News ](https://sachachua.com/blog/)**</u> <img width="25" src="./images/Chua.png"/>  Sacha Chua
