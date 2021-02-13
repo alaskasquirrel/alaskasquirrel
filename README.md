@@ -14,14 +14,6 @@
   </tr>
 </table>
 
-<a href="https://github.com/alaskasquirrel/Chinese-Podcasts">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=alaskasquirrel&repo=Chinese-Podcasts&theme=buefy" />
-</a>
-
-<a href="https://github.com/alaskasquirrel/Lisp-China">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=alaskasquirrel&repo=Lisp-China&theme=graywhite" />
-</a>
-
 ******
 
 - Thanks:
