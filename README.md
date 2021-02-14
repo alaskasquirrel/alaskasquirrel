@@ -14,16 +14,6 @@
   </tr>
 </table>
 
-<a href="https://github.com/alaskasquirrel/Chinese-Podcasts">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=alaskasquirrel&repo=Chinese-Podcasts&theme=buefy" />
-</a>
-
-<a href="https://github.com/alaskasquirrel/Lisp-China">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=alaskasquirrel&repo=Lisp-China&theme=graywhite" />
-</a>
-
-******
-
 - Thanks:
   * Common Lisp is nice: see <u>**[Lisp Journey](https://lisp-journey.gitlab.io/)**</u> editor <img width="30" src="./images/LispJourney.jpg"/> vindarel ||||||| <img width="45" src="./images/CHM.png"/> <u>**[History of LISP](http://www.softwarepreservation.org/projects/LISP)**</u> editor <img width="30" src="./images/McJones.jpg"/> Paul McJones
 
