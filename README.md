@@ -5,12 +5,14 @@
   <th><a href="https://github.com/alaskasquirrel/KurtGodel"> Kurt Gödel </a></th>
   <th><a href="https://alaskasquirrel.github.io/post/Privacy/"> 👁‍🗨 Privacy 👁‍🗨 </a></th>
   <th><a href="https://alaskasquirrel.github.io/post/History/"> 時光機 </a></th>
+  <th><a href="https://github.com/alaskasquirrel/Chinese-Podcasts"> 播客 </a></th>
   <tr>
   <td><a href="https://github.com/alaskasquirrel/mathematical-logic"><img width="120px" src="./images/MathematicalLogic.png"/></a></td>
   <td><a href="https://github.com/alaskasquirrel/Lisp-China"><img width="100px" src="./images/LandOfLisp.png"/></a></td>
   <td><a href="https://github.com/alaskasquirrel/KurtGodel"><img width="90px" src="./images/KurtGodel.jpg"/></a></td>
   <td><a href="https://alaskasquirrel.github.io/post/Privacy/"><img width="115px" src="./images/Privacy.jpg"/></a></td>
   <td><a href="https://alaskasquirrel.github.io/post/History/"><img width="150px" src="./images/城墙.jpg"/></a></td>
+  <td><a href="https://github.com/alaskasquirrel/Chinese-Podcasts"><img width="100px" src="./images/播客.jpg/"></a></td>  
   </tr>
 </table>
 
