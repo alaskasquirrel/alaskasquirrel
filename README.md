@@ -12,16 +12,17 @@
   <td><a href="https://github.com/alaskasquirrel/KurtGodel"><img width="90px" src="./images/KurtGodel.jpg"/></a></td>
   <td><a href="https://alaskasquirrel.github.io/post/Privacy/"><img width="115px" src="./images/Privacy.jpg"/></a></td>
   <td><a href="https://alaskasquirrel.github.io/post/History/"><img width="150px" src="./images/城墙.jpg"/></a></td>
-  <td><a href="https://github.com/alaskasquirrel/Chinese-Podcasts"><img width="100px" src="./images/播客.jpg/"></a></td>  
+  <td><a href="https://github.com/alaskasquirrel/Chinese-Podcasts"><img width="100px" src="./images/播客.jpg/"></a></td>
   </tr>
 </table>
 
 ******
 
-Thanks:
-  * Common Lisp is nice: see <u>**[Lisp Journey](https://lisp-journey.gitlab.io/)**</u> editor <img width="30" src="./images/LispJourney.jpg"/> vindarel **<u>[Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)</u>** ||||||| <img width="45" src="./images/CHM.png"/> <u>**[History of LISP](http://www.softwarepreservation.org/projects/LISP)**</u> editor <img width="30" src="./images/McJones.jpg"/> Paul McJones
+- Thanks:
 
-  * <img width="28" src="./images/EmacsNews.png"/> <u>**[Emacs News ](https://sachachua.com/blog/)**</u> <img width="25" src="./images/Chua.png"/>  Sacha Chua |||||||  <img width="28" src="./images/EmacsLogo.png"/> <u>**[Using Emacs Series](https://cestlaz.github.io/stories/emacs/)**</u> <img width="25" src="./images/Zamansky.jpg"/> Mike Zamansky  
+  * Common Lisp is nice: see <u>**[Lisp Journey](https://lisp-journey.gitlab.io/)**</u> editor <img width="30" src="./images/LispJourney.jpg"/> vindarel ||||||| <img width="45" src="./images/CHM.png"/> <u>**[History of LISP](http://www.softwarepreservation.org/projects/LISP)**</u> editor <img width="30" src="./images/McJones.jpg"/> Paul McJones
+
+  * <u>**[Emacs News ](https://sachachua.com/blog/)**</u> <img width="25" src="./images/Chua.png"/>  Sacha Chua |||||||  <img width="28" src="./images/EmacsLogo.png"/> <u>**[Using Emacs Series](https://cestlaz.github.io/stories/emacs/)**</u> <img width="25" src="./images/Zamansky.jpg"/> Mike Zamansky  
   
   * <u>**[Programming Language Theory](https://steshaw.org/plt/)**</u> editor <img width="25" src="./images/steshaw.png"/>  Steven Shaw ||||||| <img width="35" src="./images/Oleg.jpg"/> Oleg Kiselyov editor <u>**[FTP](http://okmij.org/ftp/)**</u> 
 
