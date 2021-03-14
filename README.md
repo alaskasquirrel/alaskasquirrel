@@ -16,8 +16,6 @@
   </tr>
 </table>
 
-******
-
 - Thanks:
 
   * Common Lisp is nice: see <u>**[Lisp Journey](https://lisp-journey.gitlab.io/)**</u> editor <img width="30" src="./images/LispJourney.jpg"/> vindarel ||||||| <img width="45" src="./images/CHM.png"/> <u>**[History of LISP](http://www.softwarepreservation.org/projects/LISP)**</u> editor <img width="30" src="./images/McJones.jpg"/> Paul McJones
