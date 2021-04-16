@@ -24,7 +24,7 @@
 
   * <u>**[Emacs News ](https://sachachua.com/blog/)**</u> <img width="25" src="./images/Chua.png"/>  Sacha Chua |||||||  <img width="28" src="./images/EmacsLogo.png"/> <u>**[Using Emacs Series](https://cestlaz.github.io/stories/emacs/)**</u> <img width="25" src="./images/Zamansky.jpg"/> Mike Zamansky  
   
-  * <u>**[Programming Language Theory](https://steshaw.org/plt/)**</u> editor <img width="25" src="./images/steshaw.png"/>  Steven Shaw ||||||| <img width="40" src="./images/Oleg.jpg"/> Oleg Kiselyov editor <u>**[FTP](http://okmij.org/ftp/)**</u> ||||||| <img src="./images/MattMight.jpg/" width="30"><u>**[Matt Might](http://matt.might.net/)**</u>
+  * <u>**[Programming Language Theory](https://steshaw.org/plt/)**</u> editor <img width="25" src="./images/steshaw.png"/>  Steven Shaw ||||||| <img width="40" src="./images/Oleg.jpg"/> Oleg Kiselyov editor <u>**[FTP](http://okmij.org/ftp/)**</u> ||||||| <img src="https://legacy.cs.indiana.edu/~dfried/dfried/dan.gif" width="30"> <u>**[Daniel P. Friedman](https://legacy.cs.indiana.edu/~dfried/)**</u> ||||||| <img src="./images/MattMight.jpg/" width="30"><u>**[Matt Might](http://matt.might.net/)**</u>
 
   * <img width="35" src="https://avatars.githubusercontent.com/u/106256?s=460&v=4"> Adrian Colyer: **<u>[the morning paper](https://blog.acolyer.org/)</u>** |||||||| <img width="35" src="./images/PapersWeLove.png"> **<u>[Papers We Love](https://paperswelove.org/)</u>**
 
