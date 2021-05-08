@@ -31,3 +31,5 @@
   * <img width="35" src="./images/pioneers.jpg"> <u>**[Computer Pioneers](https://history.computer.org/pioneers/)**</u> by J. A. N. Lee ||||||| 🎥 <u>**[The Computer Chronicles](http://www.cheifet.com/)**</u> host <img width="40" src="./images/Cheifet.jpg"> Stewart Cheifet
 
   * <img width="30" src="./images/Turing.png"/> <u>**[Turing Centenial Celebration](https://conifer.rhizome.org/mudd/turing/20180328150956/https://www.princeton.edu/turing//index.xml)**</u>  at Princeton, 10–12 May 2012.
+  
+  * <a href="https://finurls.com/"><img width="50" src="https://finurls.com/images/logo-finurls.png"></a> | <a href="https://mathurls.com/"><img width="50" src="https://mathurls.com/images/logo-mathurls.png"></a> | <a href="https://sciurls.com/"><img width="50" src="https://sciurls.com/images/logo-sciurls.png"></a> | <a href="https://techurls.com/"><img width="50" src="https://techurls.com/images/logo-techurls.png"></a> | <a href="https://tuxurls.com/"><img width="50" src="https://tuxurls.com/images/logo-tuxurls.png"></a>
