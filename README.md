@@ -20,9 +20,9 @@
 
 - Thanks:
 
-  * Common Lisp is nice: see <u>**[Lisp Journey](https://lisp-journey.gitlab.io/)**</u> editor <img width="30" src="./images/LispJourney.jpg"/> vindarel  **<u>[The Common Lisp Cookbook ](https://lispcookbook.github.io/cl-cookbook/)</u>**  ||||||| <img width="45" src="./images/CHM.png"/> <u>**[History of LISP](http://www.softwarepreservation.org/projects/LISP)**</u> editor <a href="https://mcjones.org/dustydecks/"><img width="30" src="./images/McJones.jpg"/></a>  Paul McJones
+  * Common Lisp is nice: see <u>**[Lisp Journey](https://lisp-journey.gitlab.io/)**</u> editor <img width="30" src="./images/LispJourney.jpg"/> vindarel  **<u>[The Common Lisp Cookbook ](https://lispcookbook.github.io/cl-cookbook/)</u>**  ||||||| <img width="50" src="./images/CHM.png"/> <u>**[History of LISP](http://www.softwarepreservation.org/projects/LISP)**</u> editor <a href="https://mcjones.org/dustydecks/"><img width="30" src="./images/McJones.jpg"/></a>  Paul McJones
 
-  * <u>**[Emacs News ](https://sachachua.com/blog/)**</u> <img width="25" src="./images/Chua.png"/>  Sacha Chua |||||||  <img width="28" src="./images/EmacsLogo.png"/> <u>**[Using Emacs Series](https://cestlaz.github.io/stories/emacs/)**</u> <img width="25" src="./images/Zamansky.jpg"/> Mike Zamansky  
+  * <u>**[Emacs News ](https://sachachua.com/blog/)**</u> <img width="25" src="./images/Chua.png"/>  Sacha Chua |||||||  <img width="28" src="./images/EmacsLogo.png"/> <u>**[Using Emacs Series](https://cestlaz.github.io/stories/emacs/)**</u> <img width="25" src="./images/Zamansky.jpg"/> Mike Zamansky ||||||| <u>**[More Productive with Emacs](https://lucidmanager.org/tag/emacs/)**</u>  <img width="25" src="https://lucidmanager.org/favicon.png">
   
   * <u>**[Programming Language Theory](https://steshaw.org/plt/)**</u> editor <img width="25" src="./images/steshaw.png"/>  Steven Shaw ||||||| <img width="40" src="./images/Oleg.jpg"/> Oleg Kiselyov editor <u>**[FTP](http://okmij.org/ftp/)**</u> ||||||| <img src="https://legacy.cs.indiana.edu/~dfried/dfried/dan.gif" width="30"> <u>**[Daniel P. Friedman](https://legacy.cs.indiana.edu/~dfried/)**</u> ||||||| <img src="./images/MattMight.jpg/" width="30"><u>**[Matt Might](http://matt.might.net/)**</u>
 
