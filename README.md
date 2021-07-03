@@ -30,4 +30,3 @@
   * <img width="75" src="https://new.shuge.org/wp-content/themes/artview/images/layout/logo.png"><u>**[书格](https://new.shuge.org/)**</u> .
   *  **[Cryptology ePrint Archive](https://eprint.iacr.org/)**.
   *  **[Learn X in Yminutes](https://learnxinyminutes.com/)** ； <img width="55" src="https://talkgo.org/uploads/default/original/1X/1a1c45ad4cf755ca7b20386151fa8b6f3eee31b4.png"> **[Go 夜读](https://talkgo.org/)**  ； **[Ben Lynn](https://crypto.stanford.edu/~blynn/)**
-  * 
